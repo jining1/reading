@@ -31,23 +31,33 @@
 ### 2.1 团队成员
 
 - 队员-花儿笑-长三角大区-https://github.com/jining1/reading-comprehension
-- 队员-橙-*-大区-https://github.com/langxiaole/reading-comprehension
-- 队员-shawn-珠三角大区-
+
+  > 坐标江苏，探索者、终身学习者。希望通过此项目了解到阅读理解的科学原理，找到提高阅读理解能力的方法，避免被割韭菜。
+
+- 队员-橙-北京大区-https://github.com/langxiaole/reading-comprehension
+
+  > 坐标山西，18年毕业，喜欢读书，第一次参加开智的信息分析课程，自己对心理学和编程感兴趣。
+
+- 队员-shawn-珠三角大区-https://github.com/Shawn003/reading-comprehension
+
+  > 
+
 - 观察员-沐风
+
 - 观察员-朱九爷
+
+- 教练守护-黎黎
 
 ### 2.2 协作方式
 
-- 源头文档管理 -> @Zotero
-- 知识卡片积累 -> @Zotero
-- 提问 -> @Github issue异步沟通
-- 会议纪要沉淀 -> @Github Wiki
-- 稿件写作 -> @Github code
-
+- 源头文档管理、卡片积累 -> [@Zotero](https://www.zotero.org/groups/2341439/ia005bp-reading-comprehension?)
+- 提问 -> [@Github issue异步沟通](https://github.com/jining1/reading-comprehension/issues)
+- 会议纪要沉淀 ->[@Github Wiki](https://github.com/jining1/reading-comprehension/wiki)
+- 稿件写作 -> [@Github code](https://github.com/jining1/reading-comprehension)
+- **项目每日进展监控** -> [@workflowy](https://workflowy.com/#/6d763c77b72e)
 - 会议 -> @Zoom 每周一到两次
-
 - PPT创作 ->@腾讯文档
-- 实践策略列表及其他列表积累。->@腾讯文档
+- 实践策略列表及其他列表积累。->[@腾讯文档](https://docs.qq.com/sheet/DV09WSEtCenhZRGd4?opendocxfrom=admin&tab=BB08J2&coord=A1%24A1%240%240%2415%240)
 
 ## 3 项目执行
 
@@ -78,7 +88,7 @@
 - 4wd1 190617 组队完毕
 - 4wd2 190618 [第一次线上碰头会](https://github.com/jining1/reading-comprehension/wiki/2019-06-18)，头脑风暴项目内容、方向
 - 4wd3 190619 [初步思路](https://github.com/jining1/reading-comprehension/issues/1)，[第二次会议](https://github.com/jining1/reading-comprehension/wiki/2019-06-19)
-- 4wd6 190622 第三次会议，确认详细分工，分头采集数据，同时做记录，反馈问题、困难，调整
+- 4wd6 190622 [第三次会议](https://github.com/jining1/reading-comprehension/wiki/2019-06-22-Meeting-Memo)_，确认详细分工，分头采集数据，同时在workflowy每日进展监控做记录，反馈问题、困难，调整
 - 5wd7 2019-06-30 完成数据采集
 - 6wd4 2019-07-11 **路演预演**，得到反馈
 - 6wd6 2019-07-13 完成ppt v1.0，写好讲稿
@@ -87,7 +97,7 @@
 
 ### 3.3 项目执行进度
 
-项目每日进展监控
+[项目每日进展监控](https://workflowy.com/#/6d763c77b72e)
 
 # 参考
 
