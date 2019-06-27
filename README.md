@@ -1,32 +1,47 @@
-# reading-comprehension
-信息分析五期结业大作业协作仓库：阅读理解全局认识
+# reading
+信息分析五期结业大作业协作仓库：从认知的角度谈阅读
 
 # 目录
-
-
 
 ## 1 项目简介
 
 ### 1.1 项目背景
 
-阅读理解能力是我们读书、学习、信息获取的重要能力。通过找到在这方面最前沿的研究，了解阅读理解的机制、制约阅读理解能力的因素，找到提高的方法，避免被割韭菜。
+初衷：阅读能力是我们读书、学习、信息获取的重要能力。通过找到在这方面最前沿的研究，了解阅读的机制、制约阅读能力的因素，找到提高的方法，避免被割韭菜。
 
-### 1.2 确定研究问题、策略及输出清单
+## 1.2 项目框架
 
-| 问题 | 目标 | 实践策略 | 输出清单 |
-| ---- | ---- | -------- | -------- |
-|      |      |          |          |
-|      |      |          |          |
-|      |      |          |          |
+聚焦：从认知的角度谈阅读
 
-### 1.3 最终报告呈现
+- 时间：
+  阅读从古至今的形成、发展、研究脉络；
+  个人学习阅读的过程。
+- 空间：
+  研究阅读背后的学科有哪些；
+  研究阅读的大牛有哪些；
+  阅读的原理机制、模型有哪些；
+- 变量关系
+  阅读的定义；
+  有哪些变量、因素影响阅读：根据阅读的模型解释和定义，了解到影响阅读能力的变量。还有一些猜测，比如环境、注意力、心情、是否运动。
+  阅读能力影响哪些变量：信息获取的速度和准确度等。
 
-### 1.4 项目有趣度
+## 1.3 实践策略
 
-- 课外辅导通常把阅读和写作放在一起，原因是？(九爷)
-- 你熟知的。。。并不是好方法。。。
+- 信息获取
+  - 工具：acemap，citespace，altmetric
+  - 渠道：学术论文、知识图谱、专业图书、社会引用
+  - 信息源：google scholar、cssci、web of science、acemap、microsoft academic
+  - 技巧：批量下载1000篇论文、批量阅读100篇论文、抽样阅读法、结构阅读法、深入理解一个术语
+  - 搜索技巧
+- 信息整理、加工
+  - zotero高级搜索
+  - 高阶模型：全局认识、交叉验证
+  - 时空变量、2✖️2矩阵、4✖️5原理2 团队成员和协作
+- 信息报告
+  - ppt or keynote
+  - 信息分析报告
 
-## 2 团队成员和协作
+## 2 团队成员与协作
 
 ### 2.1 团队成员
 
@@ -48,62 +63,86 @@
 
 - 教练守护-黎黎
 
+- 观察员-Alex
+
 ### 2.2 协作方式
 
-- 源头文档管理、卡片积累 -> [@Zotero](https://www.zotero.org/groups/2341439/ia005bp-reading-comprehension?)
-- 提问 -> [@Github issue异步沟通](https://github.com/jining1/reading-comprehension/issues)
-- 会议纪要沉淀 ->[@Github Wiki](https://github.com/jining1/reading-comprehension/wiki)
-- 稿件写作 -> [@Github code](https://github.com/jining1/reading-comprehension)
-- **项目每日进展监控** -> [@workflowy](https://workflowy.com/#/6d763c77b72e)
-- 会议 -> @Zoom 每周一到两次
-- PPT创作 ->@腾讯文档
-- 实践策略列表及其他列表积累。->[@腾讯文档](https://docs.qq.com/sheet/DV09WSEtCenhZRGd4?opendocxfrom=admin&tab=BB08J2&coord=A1%24A1%240%240%2415%240)
+- 微信/Zoom
+
+  项目同步交流、沟通。
+
+-  [Zotero](https://www.zotero.org/groups/2341439/ia005bp-reading-comprehension?)
+
+  源头文档管理，项目资料
+
+- Github
+
+  - [issue](https://github.com/jining1/reading-comprehension/issues)：疑问点讨论；存放诞生的灵感、建议、改进点；卡片积累
+
+  - [Wiki](https://github.com/jining1/reading-comprehension/wiki)：会议纪要沉淀；可参考的其他项目；
+
+  - [code](https://github.com/jining1/reading-comprehension)：稿件写作
+    - /delivery 存放不需要更改的交付文档
+    - /proc 存放过程文档（如大家提交的报告等）
+    - /storage	存放image等，需要调用link的，用其他图床也可以，只要link有效就行
+  - 三种使用方法：网页编辑、或github desktop、或git
+
+- [workflowy](https://workflowy.com/#/6d763c77b72e)
+
+  项目每日进展监控
 
 ## 3 项目执行
 
-### 3.1 课程组给的项目进度
+### 3.2 项目执行计划和进展
 
- - [x] 找到队友，完成组队
-- [x] 开会讨论，确定选题，约定每日碰头
-- [ ] 分头收集信息，构建全局认识，A 负责 B 负责 C 负责...
-- [ ] 队友时间冲突，沟通后及时调整分工（可能）
-- [ ] A 君开始具体分析，得出有效结论
-- [ ] 证据不足，需进一步搜集信息（可能）
-- [ ] 得出有效结论~参考路演问题不大
-- [ ] xx 在讨论区提交路演报名
-- [ ] xx 摸索数据可视化工具，学习幻灯制作，准备展示素材
-- [ ] xx 整理数据及其它素材，完成幻灯制作
-- [ ] 补充作品链接至讨论区，完成路演报名
-- [ ] 一切就绪，准备路演~   
+|      | d1       | d2                         | d3                        | d4                     | d5                                 | d6                    | d7                     |
+| ---- | -------- | -------------------------- | ------------------------- | ---------------------- | ---------------------------------- | --------------------- | ---------------------- |
+| 4w   |          | ~~Meeting1-破冰,初步思路~~ | ~~Meeting2-工具分工思路~~ |                        |                                    | ~~Meeting3-确认分工~~ |                        |
+| 5w   |          | ~~Meeting4-卡壳讨论~~      | ~~参加答疑，获得反馈~~    |                        | ~~确定下一步分工，按框架采集信息~~ |                       | **完成数据采集**       |
+| 6w   |          | 整理文档                   |                           | **预演路演，获得反馈** |                                    | pptv1.0               | 组内预演，提意见，定稿 |
+| 7w   | **路演** | 路演                       | 路演                      |                        |                                    |                       |                        |
 
-### 3.2 项目执行计划
+- [x] 4wd1 190617 组队完毕
 
-|      | d1       | d2                     | d3                    | d4           | d5   | d6                | d7                     |
-| ---- | -------- | ---------------------- | --------------------- | ------------ | ---- | ----------------- | ---------------------- |
-| 4w   |          | Meeting1-破冰,初步思路 | Meeting2-工具分工思路 |              |      | Meeting3-确认分工 |                        |
-| 5w   |          |                        |                       |              |      |                   | 完成数据采集           |
-| 6w   |          |                        |                       | **预演路演** |      | pptv1.0           | 组内预演，提意见，定稿 |
-| 7w   | **路演** |                        |                       |              |      |                   |                        |
+- 信息获取
 
-- 4wd1 190617 组队完毕
-- 4wd2 190618 [第一次线上碰头会](https://github.com/jining1/reading-comprehension/wiki/2019-06-18)，头脑风暴项目内容、方向
-- 4wd3 190619 [初步思路](https://github.com/jining1/reading-comprehension/issues/1)，[第二次会议](https://github.com/jining1/reading-comprehension/wiki/2019-06-19)
-- 4wd6 190622 [第三次会议](https://github.com/jining1/reading-comprehension/wiki/2019-06-22-Meeting-Memo)_，确认详细分工，分头采集数据，同时在workflowy每日进展监控做记录，反馈问题、困难，调整
-- 5wd7 2019-06-30 完成数据采集
-- 6wd4 2019-07-11 **路演预演**，得到反馈
-- 6wd6 2019-07-13 完成ppt v1.0，写好讲稿
-- 6wd7 2019-07-14 组内预演，提意见，完善ppt，定稿，提交。
-- 7wd1 2019-07-15 **路演 **
+  - [x] 4wd2 2019-06-18 [第一次线上碰头会](https://github.com/jining1/reading-comprehension/wiki/2019-06-18)，头脑风暴项目内容、方向
 
-### 3.3 项目执行进度
+  - [x] 4wd3 2019-06-19 [初步思路](https://github.com/jining1/reading-comprehension/issues/1)，[第二次会议](https://github.com/jining1/reading-comprehension/wiki/2019-06-19)
 
-[项目每日进展监控](https://workflowy.com/#/6d763c77b72e)
+  - [x] 4wd6 2019-06-22 [第三次会议](https://github.com/jining1/reading-comprehension/wiki/2019-06-22-Meeting-Memo)_，确认详细分工，分头采集数据，同时在workflowy每日进展监控做记录，反馈问题、困难，调整
 
-# 参考
+  - [x] 5wd2 2019-06-25 [第四次会议]([https://github.com/jining1/reading/wiki/2019-06-25%E4%BC%9A%E8%AE%AE](https://github.com/jining1/reading/wiki/2019-06-25会议))，[项目卡壳](https://github.com/jining1/reading/issues/1#issuecomment-505448003)，讨论下一步方向
+
+  - [x] 5wd3 2019-06-26 参加第一次答疑，选定方向**以认知的角度看阅读**，确定[项目框架](https://github.com/jining1/reading/issues/1#issuecomment-505483254)，按照框架收集资料
+
+  - [ ] 5wd5 2019-06-28 第五次会议，确定下一步分工
+
+  - [ ] 5wd7 2019-06-30 **完成数据采集**
+
+- 信息整理
+
+  - [ ] 6wd2 2019-07-02 整理文档
+
+- 信息加工
+
+  - [ ] 6wd4 2019-07-11 **路演预演**，得到反馈
+
+  - [ ] 6wd6 2019-07-13 完成ppt v1.0，写好讲稿
+
+  - [ ] 6wd7 2019-07-14 组内预演，提意见，完善ppt，定稿，提交。
+
+- 信息报告
+
+  - [ ] 7wdx 2019-07-15/18 看项目进展报名路演
+
+# 参考资料
 
 - [IA003-VR项目](https://github.com/kiaorahao/IA003BP)
 - [IA003-社会心理学项目]()
+- [IA005西蒙小组](https://github.com/livingworld/IA005_Simon)
 
 # ChangeLog
 
 - 2019-06-20 v1.0 初稿
+- 2019-06-27 v2.0 参考西蒙小组二稿
