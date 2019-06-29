@@ -1,4 +1,5 @@
 # reading
+
 信息分析五期结业大作业协作仓库：从认知的角度谈阅读
 
 # 目录
@@ -71,16 +72,14 @@
 
   项目同步交流、沟通。
 
--  [Zotero](https://www.zotero.org/groups/2341439/ia005bp-reading-comprehension?)
+- [Zotero](https://www.zotero.org/groups/2341439/ia005bp-reading-comprehension?)
 
   源头文档管理，项目资料
 
 - Github
 
   - [issue](https://github.com/jining1/reading-comprehension/issues)：疑问点讨论；存放诞生的灵感、建议、改进点；卡片积累
-
   - [Wiki](https://github.com/jining1/reading-comprehension/wiki)：会议纪要沉淀；可参考的其他项目；
-
   - [code](https://github.com/jining1/reading-comprehension)：稿件写作
     - /delivery 存放不需要更改的交付文档
     - /proc 存放过程文档（如大家提交的报告等）
@@ -95,45 +94,29 @@
 
 ### 3.2 项目执行计划和进展
 
-|      | d1       | d2                         | d3                        | d4                     | d5                                 | d6                                | d7                     |
-| ---- | -------- | -------------------------- | ------------------------- | ---------------------- | ---------------------------------- | --------------------------------- | ---------------------- |
-| 4w   |          | ~~Meeting1-破冰,初步思路~~ | ~~Meeting2-工具分工思路~~ |                        |                                    | ~~Meeting3-确认分工~~             |                        |
-| 5w   |          | ~~Meeting4-卡壳讨论~~      | ~~参加答疑，获得反馈~~    |                        | ~~确定下一步分工，按框架采集信息~~ | meeting5-交流成果，确定下一步行动 | **完成数据采集**       |
-| 6w   |          | 整理文档                   |                           | **预演路演，获得反馈** |                                    | pptv1.0                           | 组内预演，提意见，定稿 |
-| 7w   | **路演** | 路演                       | 路演                      |                        |                                    |                                   |                        |
+|      | d1       | d2                         | d3                        | d4                     | d5                                 | d6                                    | d7                     |
+| ---- | -------- | -------------------------- | ------------------------- | ---------------------- | ---------------------------------- | ------------------------------------- | ---------------------- |
+| 4w   |          | ~~Meeting1-破冰,初步思路~~ | ~~Meeting2-工具分工思路~~ |                        |                                    | ~~Meeting3-确认分工~~                 |                        |
+| 5w   |          | ~~Meeting4-卡壳讨论~~      | ~~参加答疑，获得反馈~~    |                        | ~~确定下一步分工，按框架采集信息~~ | ~~meeting5-交流成果，确定下一步行动~~ | **完成数据采集**       |
+| 6w   |          | 整理文档                   |                           | **预演路演，获得反馈** |                                    | pptv1.0                               | 组内预演，提意见，定稿 |
+| 7w   | **路演** | 路演                       | 路演                      |                        |                                    |                                       |                        |
 
 - [x] 4wd1 190617 组队完毕
-
 - 信息获取
-
   - [x] 4wd2 2019-06-18 [第一次线上碰头会](https://github.com/jining1/reading-comprehension/wiki/2019-06-18)，头脑风暴项目内容、方向
-
   - [x] 4wd3 2019-06-19 [初步思路](https://github.com/jining1/reading-comprehension/issues/1)，[第二次会议](https://github.com/jining1/reading-comprehension/wiki/2019-06-19)
-
   - [x] 4wd6 2019-06-22 [第三次会议](https://github.com/jining1/reading-comprehension/wiki/2019-06-22-Meeting-Memo)_，确认详细分工，分头采集数据，同时在workflowy每日进展监控做记录，反馈问题、困难，调整
-
   - [x] 5wd2 2019-06-25 [第四次会议]([https://github.com/jining1/reading/wiki/2019-06-25%E4%BC%9A%E8%AE%AE](https://github.com/jining1/reading/wiki/2019-06-25会议))，[项目卡壳](https://github.com/jining1/reading/issues/1#issuecomment-505448003)，讨论下一步方向
-
   - [x] 5wd3 2019-06-26 参加第一次答疑，选定方向**以认知的角度看阅读**，确定[项目框架](https://github.com/jining1/reading/issues/1#issuecomment-505483254)，按照框架收集资料
-
-  - [ ] 5wd5 2019-06-28 [第五次会议](https://github.com/jining1/reading/wiki/2019-06-29)，交流探索成果，确定下一步行动
-
+  - [x] 5wd5 2019-06-28 [第五次会议](https://github.com/jining1/reading/wiki/2019-06-29)，交流探索成果，确定下一步行动
   - [ ] 5wd7 2019-06-30/07-02 **完成数据采集**
-
 - 信息整理
-
   - [ ] 6wd2 2019-07-03 整理文档
-
 - 信息加工
-
   - [ ] 6wd4 2019-07-11 **路演预演**，得到反馈
-
   - [ ] 6wd6 2019-07-13 完成ppt v1.0，写好讲稿
-
   - [ ] 6wd7 2019-07-14 组内预演，提意见，完善ppt，定稿，提交。
-
 - 信息报告
-
   - [ ] 7wdx 2019-07-15/18 看项目进展报名路演
 
 # 参考资料
