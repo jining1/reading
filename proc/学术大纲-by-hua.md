@@ -24,7 +24,7 @@
 
 - 参考：谷歌学术阅读相关学者标签、专业图书的介绍、知网阅读论文摘要、百科
 
-### 大牛
+### 国外大牛
 
 - acemap
 
@@ -83,13 +83,152 @@
 
 - 谷歌学术
 
-  
+  | name                      | totalcite | H_index |
+  | ------------------------- | --------- | ------- |
+  | Keith Rayner              | 70750     | 138     |
+  | Steve Petersen            | 78505     | 110     |
+  | Keith E. Stanovich        | 62362     | 107     |
+  | Charles Perfetti          | 40118     | 101     |
+  | Max Coltheart             | 49668     | 100     |
+  | Roland Good               | 39616     | 95      |
+  | Charles Hulme             | 30444     | 90      |
+  | Richard C. Anderson       | 45551     | 89      |
+  | Mark Seidenberg           | 39662     | 88      |
+  | Laurent Cohen             | 38380     | 88      |
+  | David J. Francis          | 25372     | 84      |
+  | Rebecca Treiman           | 23607     | 84      |
+  | P. David Pearson          | 37476     | 79      |
+  | Russell Gersten           | 22533     | 79      |
+  | John Henderson            | 22528     | 78      |
+  | Richard Olson             | 21702     | 78      |
+  | Richard K. Wagner         | 37042     | 76      |
+  | Christopher Lonigan       | 24482     | 70      |
+  | martin pickering          | 21890     | 70      |
+  | Andy Ellis                | 20602     | 70      |
+  | Kenneth s Goodman         | 29450     | 69      |
+  | Rana Hajjeh               | 17298     | 68      |
+  | Gary Rubin                | 17557     | 67      |
+  | Johannes Ziegler          | 18358     | 59      |
+  | Vimal Kumar               | 17761     | 58      |
+  | derek besner              | 12610     | 58      |
+  | Elfrieda H. Hiebert       | 13792     | 57      |
+  | Manuel Perea              | 9779      | 55      |
+  | Stephen A. Petrill        | 9638      | 55      |
+  | Leonard Katz              | 17398     | 54      |
+  | Michelle Luciano          | 9760      | 54      |
+  | Hassan Ahmed              | 16188     | 53      |
+  | John R. Kirby             | 11273     | 52      |
+  | Timothy Shanahan          | 16163     | 51      |
+  | Linda Baker               | 13197     | 50      |
+  | Carol M Connor            | 10744     | 49      |
+  | Scott Baker               | 10731     | 49      |
+  | Nancy Frey                | 8304      | 49      |
+  | James R. Booth            | 7429      | 47      |
+  | Kumar Raj                 | 8559      | 46      |
+  | Jens Möller               | 6388      | 43      |
+  | william grabe             | 16750     | 41      |
+  | Elizabeth AL Stine-Morrow | 5279      | 41      |
+  | Jacqueline Manuel         | 11161     | 40      |
+  | Jean-Francois Rouet       | 6753      | 40      |
+  | Ted JM Sanders            | 6210      | 40      |
+  | Kathleen Rastle           | 10390     | 39      |
+  | Alex Leff                 | 6429      | 39      |
+  | james kim                 | 6795      | 38      |
+  | Prof. GS Gupta            | 6343      | 38      |
+  | Connie S.-H. Ho           | 5960      | 38      |
+  | Andrea Facoetti           | 5708      | 37      |
+  | Nadine Gaab               | 5046      | 37      |
+  | Ralph Radach              | 4903      | 37      |
+  | Trichur Vidyasagar        | 4891      | 36      |
+  | James V Hoffman           | 5990      | 35      |
+  | Maureen Lovett            | 5220      | 35      |
+  | Keohavong P               | 5327      | 34      |
+  | Vishal Verma              | 4922      | 34      |
+  | Debra Titone              | 4607      | 33      |
+  | Athanassios Protopapas    | 4102      | 33      |
+  | Theodore J. Christ        | 3631      | 33      |
+  | Jon Andoni Duñabeitia     | 3518      | 33      |
+  | Joseph Dien               | 5856      | 32      |
+  | Michael Coyne             | 4796      | 32      |
+  | KMT Collins               | 7236      | 31      |
+  | Marc F. Joanisse          | 4370      | 31      |
+  | Salim Abu-Rabia           | 3285      | 31      |
+  | Philip Gough              | 14975     | 30      |
+  | Peter V. Paul             | 3755      | 30      |
+  | Raymond Bertram           | 3409      | 30      |
+  | Stephen J Anderson        | 3405      | 30      |
+  | Utpal Bhattacharya        | 5594      | 29      |
+  | Marcia Invernizzi         | 4190      | 29      |
+  | Fredricka L. Stoller      | 7092      | 28      |
+  | Michael Cortese           | 5788      | 28      |
+  | Sarah J. White            | 3183      | 28      |
+  | Alexandra Reis            | 3941      | 27      |
+  | Alexandra Reis            | 3940      | 27      |
+  | Urs Maurer                | 3545      | 27      |
+  | Conrad Perry              | 7317      | 26      |
+  | Paige Pullen              | 6336      | 25      |
+  | Boris New                 | 5949      | 25      |
+  | Badruzzaman               | 3814      | 25      |
+  | william rupley            | 3407      | 25      |
+  | Antje Nuthmann            | 3318      | 25      |
+  | Richard Kern              | 8517      | 24      |
+  | Sara C Sereno             | 4396      | 24      |
+  | Marialuisa Martelli       | 3609      | 24      |
+  | Penelope Collins          | 3168      | 24      |
+  | Victor Kuperman           | 3639      | 23      |
+  | Min Wang                  | 3277      | 23      |
+  | Martin Nystrand           | 8049      | 21      |
+  | Debra Jared               | 3495      | 21      |
+  | Jessica Church Lang       | 7540      | 20      |
+  | John Rack                 | 4062      | 20      |
+  | Stephen Schilling         | 4720      | 19      |
+  | Jane Ashby                | 4980      | 18      |
+  | Monica Melby-Lervåg       | 3569      | 18      |
+  | William Graves            | 3474      | 11      |
+
+### 国内大牛和机构
+
+- 心理学系排名
+
+通过看国内的学科设置，以及北大心理学系导师的研究方向，发现脑科学、认知神经科学、认知心理学都设在心理学。
+根据全国第四轮学科评估结果-心理学  http://www.cdgdc.edu.cn/xwyyjsjyxx/xkpgjg/ 可得到心理学专业学校排名。
+
+[![Z1BO0O.png](https://s2.ax1x.com/2019/06/30/Z1BO0O.png)](https://imgchr.com/i/Z1BO0O)
+
+- 主攻阅读的学校和大牛：
+  - 通过知网的高级搜索，学科心理学，摘要关键词包括阅读。分别用博士集合以及硕博集合，得出
+  - 心理系里研究阅读、眼动的大学有：天津师范大学（白学军、闫国利）、华东师范大学（李其维，方俊明等）、西南大学，华南师范大学(莫雷)
+  - 在国内的著作《阅读心理学》的参考文献(还没整理)
+
+华中师范大学：熊俊梅、刘华山
+
+华东师范大学：李其维3、周兢、邓赐平2、方俊明4、缪小春(内隐学习-汉语教学)、杨治良、梁宁建、皮连生
+
+天津师范大学：沈德立2、闫国利8、白学军11、王敬欣2
+
+山东大学：张杰
+
+浙江大学：张智君、曹立人、王坚、董奇、王小潞(神经心理机制)、
+
+湖南师范大学：钟毅平
+
+南京师范大学：谭顶良、傅宏(阅读疗法)
+
+江西师范大学：戴海琦
+
+辽宁师范大学：张宁生、韩玉昌、杨丽珠
+
+华南师范大学：莫雷5(文本阅读、发展性障碍)
+
+电子科技大学：李朝义
+
+内蒙古师范大学：余嘉元
 
 ### 理论、模型
 
 - 人类认知模型
 
-  ![ZQDfg0.png](https://s2.ax1x.com/2019/06/29/ZQDfg0.png)
+  ![ZQDfg0.png](/Users/chenjining/github.chenjining.com/reading-comprehension/storage/ZQDfg0.png)
 
 - 图示理论
 
@@ -154,7 +293,7 @@
 
 - 最强烈决定阅读速度的因素是单词识别能力(Kuperman&VanDyke，2011)。这一发现表明，阅读速度与语言处理能力而不是眼睛运动控制能力密切相关。
 
-- 在模型 中，词语识别是读者转动眼睛的时间和地点的主要 决定因素。在阅读文本之前，我们不会为眼球运动 设置一个不变的速度和长度。相反，我们的步伐和 移动速度取决于我们正在进行的认知过程:我们如 何处理传入的信息。第二个要点是，在调整这些模 型以考虑儿童阅读技能发展时，需要修改的参数是 那些与语言处理能力有关的参数，而不是那些指定 眼睛运动控制能力的参数(Reichle 等人，2013 年)。 从建模工作中得出的这一发现进一步支持了这样一 种观点，即语言处理是阅读表现的主要驱动力，而不是控制眼睛运动的能力。
+- 在模型中，词语识别是读者转动眼睛的时间和地点的主要 决定因素。在阅读文本之前，我们不会为眼球运动 设置一个不变的速度和长度。相反，我们的步伐和 移动速度取决于我们正在进行的认知过程:我们如何处理传入的信息。第二个要点是，在调整这些模 型以考虑儿童阅读技能发展时，需要修改的参数是 那些与语言处理能力有关的参数，而不是那些指定 眼睛运动控制能力的参数(Reichle 等人，2013 年)。 从建模工作中得出的这一发现进一步支持了这样一 种观点，即语言处理是阅读表现的主要驱动力，而不是控制眼睛运动的能力。
 
 - 总结：也就是说并不是眼动影响阅读速度，而是单词识别、语言处理能力决定我们眼动的速度。
 
